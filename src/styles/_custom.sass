@@ -1,19 +1,291 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 4s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    top: 47%
+    right: -5%
+    width: 75%
+    display: none !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/1.png") !important
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto
+
+.img-mov
+  @media (max-width: 810px)
+    display: block
+    margin: auto
+    width: auto
+    height: auto 
+
+.j
+  display: flex
+  justify-content: center
+  align-items: center      
+
+figcaption
+  font-weight: 400 !important
+
+.bg1
+  background-color: #FAFFEB
+
+.brad
+  border-radius: 20px !important
+
+.t1
+  background-color: #E2F7AC 
+     
+.bg2
+  background-color: #FAEDC0
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 45px
+    height: 45px
+  @media (max-width: $bp-max-sm )
+    width: 35px
+    height: 35px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 15px
+    height: 15px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 15px
+    height: 15px  
+    margin: 0 3px        
+
+.slyder-a
+  &__tipo-a
+    .slyder-a
+      &__bullets
+        position: absolute
+        bottom: 20px !important
+        left: 50%
+        transform: translateX(-50%)            
+
+.slyder-a__bullets__item--active
+  background-color: #BADC61 !important
+  border: 1px solid #BADC61
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FEB12E
+.slyder-a__bullets__item
+  background-color: #CFEABA
+  border: 1px solid #CFEABA     
+
+.bg10
+  background-color: #D3EDE5 !important   
+
+.ts
+  *
+    color: #12263F !important  
+
+.img-w
+  width: 250px !important
+
+.bg3
+  background-color: #E2EACB
+
+.bloque-texto-b i
+  color: #34BC85
+
+.bg4
+  background-color: #FAEDC0
+
+.bg5
+  background-color: #F3F9FF
+
+.tarjeta.color-acento-botones
+  background-color: #f6f6f6 
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37) 
+  border: 2px solid #336367 
+
+.img-infografica__card
+  width: 600px !important 
+
+.bg6
+  background-color: #E2EACB
+
+.bg7
+  background-image: url(../assets/curso/temas/11.png)
+  background-repeat: no-repeat
+  background-size: 100% 70%
+  background-position: center
+  @media (max-width: 810px)
+    background-size: cover   
+
+.bgw
+  background-color: white !important      
+
+.bg13
+  background-color: #FAEDC0                             
+
+.bg8
+  background-color: #E2EACB !important     
+
+.bg9
+  background-color: #ECF7F4 !important   
+
+.bra
+  border-radius: 0px !important  
+
+.bg11
+  background-color: #D3EDE5  
+
+.bg12
+  background-color: #FDF8E4   
+
+.color-fondo-text
+  position: relative
+  &:before
+    content: ''
+    display: block
     position: absolute
-    top: 51%
-    right: 30%
+    top: 0%
+    bottom: 0
+    left: 0
+    right: 80%
+  &__texto
+    position: relative
+    *
+      display: inline
+
+  &.bg-color
+    &:before
+      background-color: #FAEDC0     
+
+.bg14
+  background-color: #0E494D
+  border-radius: 50px
+  *
+    color: white       
+
+.bg15
+  background-image: url(../assets/curso/temas/21.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center     
+
+.bg16
+  background-image: url(../assets/curso/temas/22.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center       
+
+.img-big
+  width: 400px !important    
+
+.bg17
+  background-color: #ECF7F4 !important  
+
+.bg18
+  background-color: #FDF8E4 !important    
+
+.tarjeta--gris
+  background-color: #F3F9FF  
+
+.linea-tiempo-c__header__btn:hover, .linea-tiempo-c__header__btn--left:hover, .linea-tiempo-c__header__btn--right:hover, .pasos-b__header__btn--left:hover, .pasos-b__header__btn--right:hover
+  background-color: #FEB12E 
+  border-color: #FEB12E       
+
+.bg19
+  background-color: #DEEFFF !important         
+
+.bg20
+  background-color: #ECF7F4 !important   
+
+.tabla-a.color-acento-botones thead
+  border-color: #ffffff   
+
+.bg21
+  background-color: #52C194  
+
+.bg22
+  background-color: #F3F9FF  
+
+.tarjeta-verde  
+  background-image: url(../assets/curso/temas/45.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center   
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 45px
+    height: 45px
+  @media (max-width: $bp-max-sm )
+    width: 35px
+    height: 35px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 15px
+    height: 15px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 15px
+    height: 15px  
+    margin: 0 3px        
+
+.slyder-a
+  &__tipo-a
+    .slyder-a
+      &__bullets
+        position: absolute
+        bottom: 20px !important
+        left: 50%
+        transform: translateX(-50%)            
+
+.slyder-a__bullets__item--active
+  background-color: #BADC61 !important
+  border: 1px solid #BADC61
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FEB12E
+.slyder-a__bullets__item
+  background-color: #CFEABA
+  border: 1px solid #CFEABA        
+
+.c1
+  color: #FEB12E !important  
+
+.bg23
+  background-color: #FFF6D8  
+
+.acordion
+  .tarjeta.bg11
+    background-color: #F6F6F6
+.tarjeta.bg11.acordion__activo
+  background-color: #DCE7C1 !important 
+.acordion__accion__btn--a i
+  color: #FEB12E !important
+.tarjeta.bg6.acordion__activo i            
+  color: #FDB74D !important  
 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.tarjeta.color-acento-botones--borde
+  background-color: #DEEFFF
+  border: 4px solid #DEEFFF
+.tabs-a.color-acento-botones .tabs-a__tab__selected::before 
+  background-color: #BADC61 
+.tabs-a.color-acento-botones .tabs-a__tab:hover, .tabs-a.color-acento-botones .tabs-a__tab:active, .tabs-a.color-acento-botones .tabs-a__tab:focus, .tabs-a.color-acento-botones .tabs-a__tab__selected
+  background-color: #BADC61 !important
+.tabs-a__tab 
+  background-color: #DFE6CD     
 
-  100%
-    transform: translateY(0px)
+.bg24
+  background-color: #00BC86
+
+.bg25
+  background-color: #BADC61    
+
+.c2
+  color: #12263F !important  
+
+.bg26
+  background-color: #ECF7F4 
