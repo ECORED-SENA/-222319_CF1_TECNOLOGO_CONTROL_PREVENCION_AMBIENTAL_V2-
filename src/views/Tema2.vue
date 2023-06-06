@@ -7,15 +7,15 @@
         span 2
       h1 Marco normativo ambiental
 
-    p(data-aos="fade-down").mb-5 Las normas que se establecen en Colombia parten del hecho de su importancia y jerarquía en las que involucran derechos y obligaciones establecidas en la constitución política. #[b Es importante conocer que normas y/o leyes prevalecen sobre otras y viceversa, por eso se va a profundizar en este tema.] 
+    p(data-aos="fade-down").mb-5 #[b Las normas que se establecen en Colombia] parten del hecho de su importancia y jerarquía en las que involucran derechos y obligaciones establecidas en la constitución política. #[b Es importante conocer que normas y/o leyes prevalecen sobre otras y viceversa, por eso se va a profundizar en este tema.] 
 
     .row.justify-content-center.mb-5           
       .col-lg-4.p-0(data-aos="flip-down")
         .bg21.p-5.h-100.j
-          h5.mb-0.text-white ¿Que es el ordenamiento Juridico?    
+          h5.mb-0.text-white ¿Que es el ordenamiento Jurídico?    
       .col-lg-6.p-0
         .bg22.p-4.h-100.j
-          p(data-aos="fade-down").mb-0 En colombia el derecho se presenta como un sistema jerarquizado de normas que denominamos ordenamiento jurídico. Es así como el ordenamiento juridico se fundamenta en unas normas de mayor jerarquía que son la constitución Política o Constitución Nacional, que en Colombia es la expedida por la Asamblea Nacional Constituyente de 1991
+          p(data-aos="fade-down").mb-0 En colombia el derecho se presenta como un sistema jerarquizado de normas que denominamos ordenamiento jurídico. Es así como el ordenamiento juridico se fundamenta en unas normas de mayor jerarquía que son la constitución Política o Constitución Nacional, que en Colombia es la expedida por la Asamblea Nacional Constituyente de 1991.
 
       .col-lg-10
         p.mt-5(data-aos="fade-down") Para comprender cómo funcionan las normas en Colombia, es necesario entender cómo se hacen las leyes en el país. En el siguiente video se puede observar cómo funciona el sistema legislativo.  
@@ -77,7 +77,7 @@
 
     .row.justify-content-start.mb-4        
       .col-auto.bg14.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Autoridades Ambientales en Colombia: 
+        h5.mb-0(data-aos="fade-down") Autoridades Ambientales en Colombia
 
     p(data-aos="fade-down").mb-5 Colombia se caracteriza por ser un país con gran diversidad ecológica y ambiental por tal razón, el Ministerio de Ambiente y Desarrollo Sostenible (MINAMBIENTE)   es el rector y  la máxima autoridad que establece las normas, políticas y la gestión del ambiente y de los recursos naturales renovables, cuyo propósito es el de  orientar y regular el ordenamiento ambiental del territorio, establecer políticas, regulaciones para el aprovechamiento, manejo y uso  de los recursos naturales renovables y del ambiente de la nación, a fin de asegurar el desarrollo sostenible y el bienestar de ambiental de todos los colombianos. 
 
@@ -106,31 +106,31 @@
       SlyderA(tipo="b")
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
-            h4 MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE  
+            h4 Ministerio de Ambiente y Desarrollo Sostenible 
             p El Ministerio de Ambiente y Desarrollo Sostenible es el rector de la gestión del ambiente y de los recursos naturales renovables.   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/46.png', alt='')      
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
-            h4 AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES  
+            h4 Autoridad nacional de licencias ambientales 
             p Es una Unidad Administrativa Especial, de orden nacional encargada de que los proyectos, obras o actividades sujetos de licenciamiento, permiso o trámite ambiental cumplan con la normativa, de tal manera que contribuyan al desarrollo sostenible.    
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/47.png', alt='') 
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
-            h4 PARQUES NACIONALES NATURALES DE COLOMBIA  
+            h4 Parques nacionales naturales de Colombia  
             p Es una Unidad Administrativa Especial, de orden nacional encargada de la administración y manejo del Sistema de Parques Nacionales Naturales y la coordinación del Sistema Nacional de Áreas Protegidas, así como de su administración, control y conservación.   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/48.png', alt='')      
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
-            h4 CORPORACIONES AUTÓNOMAS REGIONALES (CAR)  
+            h4 Corporaciones autónomas regionales (CAR)  
             p Son entes públicos con autonomía administrativa y financiera, creados por la ley y compuestos por entidades territoriales que conforman un mismo ecosistema o unidad geopolítica, biogeográfica o hidrogeográfica. Su función es administrar el medio ambiente y los recursos naturales renovables dentro de su jurisdicción, y promover su desarrollo sostenible, en cumplimiento de las políticas y disposiciones legales del Ministerio de Medio Ambiente y Desarrollo Sostenible (MADS).   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/49.png', alt='')  
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
-            h4 AUTORIDADES AMBIENTALES URBANAS  
+            h4 Autoridades ambientales urbanas  
             p Estas instituciones están encargadas de promover y ejecutar programas y políticas nacionales, regionales y sectoriales en relación con el medio ambiente y los recursos naturales renovables (las mismas funciones de las Corporaciones Autónomas Regionales) en los municipios, distritos o áreas metropolitanas cuya población urbana fuere igual o superior a un millón de habitantes   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/50.jpg', alt='')      

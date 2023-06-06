@@ -64,7 +64,7 @@
     p(data-aos="fade-down").mb-5 Como se mencionó anteriormente un ecosistema es un conjunto de seres vivos y su entorno físico y químico, que interactúan entre sí para mantener un equilibrio. El medio ambiente, por otro lado, es la generalidad que incluye todos los ecosistemas, incluyendo el ecosistema urbano creado por los seres humanos. Así,  se puede entender que un ecosistema es una parte importante del medio ambiente, pero no lo es todo. En el diagnóstico ambiental de una organización, se consideran no solo los recursos naturales, como la flora, fauna, agua, suelo y aire, sino también el aspecto social, incluyendo las actividades humanas.  
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-8.bg3.p-4(data-aos="flip-down")
+      .col-lg-8.bg3.p-5(data-aos="flip-down")
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -129,8 +129,9 @@
 
     .row.justify-content-center.mb-5 
       .col-lg-7
-        .bg4.p-5.h-100.j
-          p(data-aos="fade-down").mb-0 En función de cada caso, estas variables pueden generar multas millonarias, pero en ocasiones las empresas tienen los recursos para pagarlas. Por lo tanto, también existen sanciones de sellamiento y clausura.  Reconocer los hábitats de las especies en el área de influencia de un proyecto u organización y evaluar cómo las actividades de esta afectan ese hábitat, ya sea de manera directa a la especie o indirecta al contaminar o afectar el agua, el suelo, el aire, es fundamental para identificar medidas de prevención y mitigación ambiental.                
+        .bg4.p-5.h-100
+          p(data-aos="fade-down") En función de cada caso, estas variables pueden generar multas millonarias, pero en ocasiones las empresas tienen los recursos para pagarlas. Por lo tanto, también existen sanciones de sellamiento y clausura.  
+          p(data-aos="fade-down").mb-0 Reconocer los hábitats de las especies en el área de influencia de un proyecto u organización y evaluar cómo las actividades de esta afectan ese hábitat, ya sea de manera directa a la especie o indirecta al contaminar o afectar el agua, el suelo, el aire, es fundamental para identificar medidas de prevención y mitigación ambiental.                
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/13.png', alt='') 
 
@@ -150,7 +151,9 @@
             .p-3.my-4.me-2
               p(data-aos="fade-down").mb-0 En el proceso de licenciamiento ambiental, los aspectos a evaluar para la determinación del área de influencia se deben plantear considerando una jerarquía de medio y componente, donde los medios son la división general del ambiente y la máxima categoría de abordaje, #[b mientras que los componentes corresponden a los elementos ambientales que constituyen un medio, como se presenta a continuación:]  
 
-    h4(data-aos="fade-down").mb-5.text-center Componentes
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 1. 
+      span  Componentes ambientales 
 
     .row.justify-content-center.mb-5           
       .col-lg-4
@@ -177,7 +180,7 @@
 
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
-                h4.text-center Medio socioeconomico 
+                h4.text-center Medio socioeconómico 
                 p.mb-0 Consta de los componentes demográfico, espacial, económico, cultural, arqueológico y politico - organizativo 
 
     p(data-aos="fade-down").mb-5 Para realizar un diagnóstico ambiental de la organización, es fundamental identificar los componentes ambientales que rodean su área de influencia directa e indirecta. #[b De esta manera, se podrá definir si estas actividades pueden estar afectando o pueden afectar los componentes ambientales.] 
@@ -204,7 +207,7 @@
 
     .row.justify-content-start.mb-4        
       .col-auto.bg14.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Ambiente físico:
+        h5.mb-0(data-aos="fade-down") Ambiente físico
 
     p(data-aos="fade-down").mb-5 Se refiere a todos los elementos no vivos presentes en un lugar determinado, como la atmósfera, el agua, el suelo, la luz solar, la temperatura y los minerales         
 
@@ -216,7 +219,8 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/hHY95-zgUGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          figcaption Video. Identificación de los componentes ambientales de acuerdo al contexto
 
     .bg16.p-5.mb-5
       h5(data-aos="fade-down") Componente  biótico:
@@ -241,6 +245,7 @@
               img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
             .col
               .p-3.my-4.me-2
+                h4(data-aos="fade-down") Infraestructura socioeconómica 
                 p(data-aos="fade-down").mb-0 Servicios e instalaciones publicas y privadas, el transporte, las viviendas, las escuelas, los parques, la protección policial y contra incendios, los servicios de salud, el abastecimiento de agua y desagüe, el manejo del agua de lluvia y los desechos sólidos.     
 
           .row.justify-content-between.mx-0.bg11.mb-3(data-aos="flip-down")
@@ -248,6 +253,7 @@
               img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
             .col
               .p-3.my-4.me-2
+                h4(data-aos="fade-down") El tráfico 
                 p(data-aos="fade-down").mb-0 El proyecto podría tener impacto en el corto o largo plazo sobre las vías de acceso o los niveles de trafico, así como los recursos energéticos y los materiales peligrosos   
 
     .bg16.p-5.mb-5
@@ -298,68 +304,62 @@
 
     .tarjeta.tarjeta--gris.p-4.my-5
       LineaTiempoC.color-acento-botones
-        .row.justify-content-center.align-items-center(titulo="1 - Consultar información del área de estudio")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Consultar información del área de estudio  
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/28.png') 
+        .row.justify-content-center(titulo="1. Información")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Consultar información del área de estudio  
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/28.png') 
 
-                .col
-                  p.mb-0 Consultar información secundaria del área de estudio, como cartografía de Googlemaps, Guía de Zonificación y Codificación de Cuencas Hidrográficas, planchas del Servicio Geológico Colombiano, fotografías satelitales e información oficial de índole local, regional y nacional, para cada uno de los componentes ambientales, considerando la ubicación del proyecto, obra o actividad.     
-        .row.justify-content-center.align-items-center(titulo="2 - Realizar reconocimiento del área")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Realizar reconocimiento del área  
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/29.png') 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Consultar información secundaria del área de estudio, como cartografía de Googlemaps, Guía de Zonificación y Codificación de Cuencas Hidrográficas, planchas del Servicio Geológico Colombiano, fotografías satelitales e información oficial de índole local, regional y nacional, para cada uno de los componentes ambientales, considerando la ubicación del proyecto, obra o actividad.     
+        .row.justify-content-center(titulo="2. Reconocimiento")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Realizar reconocimiento del área  
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/29.png') 
 
-                .col
-                  p.mb-0 Realizar reconocimiento del área, con el fin de corroborar la información secundaria consultada y la establecida en las imágenes satelitales, haciendo uso de recorridos definidos y estableciendo y/o ratificando puntos de interés para el levantamiento de información y/o muestreos.      
-        .row.justify-content-center.align-items-center(titulo="3 - Identificar aspectos relevantes")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Identificar aspectos relevantes  
-              p 
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/30.png') 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Realizar reconocimiento del área, con el fin de corroborar la información secundaria consultada y la establecida en las imágenes satelitales, haciendo uso de recorridos definidos y estableciendo y/o ratificando puntos de interés para el levantamiento de información y/o muestreos.      
+        .row.justify-content-center(titulo="3. Aspectos")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Identificar aspectos relevantes  
+            p 
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/30.png') 
 
-                .col
-                  p.mb-0 Identificar aspectos relevantes y establecer puntos de interés por su vulnerabilidad o conservación ambiental y social de los medios físicos, como bióticos y socioeconómicos.     
-        .row.justify-content-center.align-items-center(titulo="4 - Definir las actividades propuestas")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Definir las actividades propuestas  
-              p 
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/31.png') 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Identificar aspectos relevantes y establecer puntos de interés por su vulnerabilidad o conservación ambiental y social de los medios físicos, como bióticos y socioeconómicos.     
+        .row.justify-content-center(titulo="4. Actividades")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Definir las actividades propuestas  
+            p 
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/31.png') 
 
-                .col
-                  p.mb-0 Definir las actividades propuestas para las diferentes fases, de acuerdo con las necesidades del proyecto, obra o actividad.   
-        .row.justify-content-center.align-items-center(titulo="5 - Identificar las unidades mínimas de análisis")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Identificar las unidades mínimas de análisis 
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/32.png') 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Definir las actividades propuestas para las diferentes fases, de acuerdo con las necesidades del proyecto, obra o actividad.   
+        .row.justify-content-center(titulo="5. Unidades")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Identificar las unidades mínimas de análisis 
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/32.png') 
 
-                .col
-                  p.mb-0 Identificar las unidades mínimas de análisis para cada uno de los componentes (p.ej. hídrico, geológico, geomorfológico, flora, fauna, demográfico, espacial, cultural, entre otros), que se presenten como relevantes.     
-        .row.justify-content-center.align-items-center(titulo="6 - Definir área de influencia")
-          .col-12
-            .bg19.brad.p-5
-              h5.mb-4 Definir área de influencia  
-              .row.justify-content-center.align-items-center.bg20.brad.p-4           
-                .col-auto 
-                  img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/33.png') 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Identificar las unidades mínimas de análisis para cada uno de los componentes (p.ej. hídrico, geológico, geomorfológico, flora, fauna, demográfico, espacial, cultural, entre otros), que se presenten como relevantes.     
+        .row.justify-content-center(titulo="6. Influencia")
+          .col-11.bg19.brad.p-5.h-100
+            h5.mb-4 Definir área de influencia  
+            .row.justify-content-center.align-items-center.bg20.brad.p-4           
+              .col-lg-auto.col-md-11.my-3 
+                img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/33.png') 
 
-                .col
-                  p.mb-0 Definir un área de influencia directa e indirecta para trazar un polígono que establezca el área donde se producirían los impactos ambientales en los componentes abióticos, bióticos y socioeconómicos. Entre los impactos a considerar están cambios de coberturas de la tierra, geoformas, puntos de convergencia de cuerpos de agua, entre otros. 
+              .col-lg.col-md-11.my-3
+                p.mb-0 Definir un área de influencia directa e indirecta para trazar un polígono que establezca el área donde se producirían los impactos ambientales en los componentes abióticos, bióticos y socioeconómicos. Entre los impactos a considerar están cambios de coberturas de la tierra, geoformas, puntos de convergencia de cuerpos de agua, entre otros. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -400,18 +400,59 @@
       h2 1.3  Bases conceptuales impacto ambiental 
 
     p(data-aos="fade-down") El aspecto Ambiental es el elemento de las actividades, productos o servicios de una organización que puede interactuar con el medio ambiente. 
-    p(data-aos="fade-down").mb-5 Los tipos de aspecto ambiental son considerados positivos si ayudan al medio ambiente o negativos si desfavorecen al medio ambiente. 
+    p(data-aos="fade-down").mb-5 Los #[b tipos de aspecto ambiental] son considerados positivos si ayudan al medio ambiente o negativos si desfavorecen al medio ambiente. 
 
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/34.svg', alt='') 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 2.
+          span Tipos de aspecto ambiental       
+        .row.justify-content-center.text-center
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard1.p-5.h-100.j
+              p.py-2.mb-0 Generación de Residuos  
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard2.p-5.h-100.j
+              p.py-2.mb-0 Consumo de Agua 
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard3.p-5.h-100.j
+              p.py-2.mb-0 Consumo de Materiales
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard4.p-5.h-100.j
+              p.py-2.mb-0 Consumo de Agua
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard1.p-5.h-100.j
+              p.mb-0 Vertimientos  
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard5.p-5.h-100.j
+              p.mb-0 Generación de Ruidos
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard2.p-5.h-100.j
+              p.mb-0 Generación de Residuos de aparatos Eléctricos y electrónicos 
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard6.p-5.h-100.j
+              p.mb-0 Generación de Escombros y malos Olores           
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard5.p-5.h-100.j
+              p.mb-0 Publicidad exterior Visual
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard7.p-5.h-100.j
+              p.mb-0 Educación ambiental. (+)  
+          .col-lg-3.my-3(data-aos="fade-right")
+            .bcard4.p-5.h-100.j
+              p.mb-0 Generación de Calor
+          .col-lg-3.my-3(data-aos="fade-left")
+            .bcard5.p-5.h-100.j
+              p.mb-0 Criterios Ambientales para la adquisición de insumos y materiales. (+)
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .bg20.p-4
-          p(data-aos="fade-down").mb-0 #[b La Evaluación de Impacto Ambiental (EIA)] es el conjunto de estudios y sistemas técnicos que permiten estimar los efectos que la ejecución de un determinado proyecto, obra o actividad causa sobre el medio ambiente, el cual tiene la identificación de los aspectos e impactos ambientales por medio de metodologías cuantitativas y/o cualitativas como puede ser el desarrollo de matrices de impacto ambiental.  Por lo tanto la EIA, debe cubrir cada una de las etapas del proyecto, obra o actividad, como instrumento para incorporar la variable ambiental. 
+          p(data-aos="fade-down").mb-0 #[b La Evaluación de Impacto Ambiental (EIA)] es el conjunto de estudios y sistemas técnicos que permiten estimar los efectos que la ejecución de un determinado proyecto, obra o actividad causa sobre el medio ambiente, el cual tiene la identificación de los aspectos e impactos ambientales por medio de metodologías cuantitativas y/o cualitativas como puede ser el desarrollo de matrices de impacto ambiental.  Por lo tanto, la EIA, debe cubrir cada una de las etapas del proyecto, obra o actividad, como instrumento para incorporar la variable ambiental. 
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
-      span Tipos de aspecto ambiental 
+      span Aspectos ambientales más comunes en los procesos manufactureros o industriales.
 
     .tabla-a.color-acento-botones.mb-2
       table
@@ -425,7 +466,7 @@
           tr(style='background-color: #F6F6F6')
             td.text-center Vertimientos 
             td 
-              ul.lista-ul
+              ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
                   | Aguas de proceso  
@@ -437,7 +478,7 @@
                   | Aguas domésticas  
             td.text-center Consumos 
             td
-              ul.lista-ul
+              ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
                   | Aguas de proceso  
@@ -450,7 +491,7 @@
             tr(style='background-color: #FFF')
             td.text-center Emisiones
             td
-              ul.lista-ul
+              ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
                   | Material particulado  
@@ -468,7 +509,7 @@
                   | Calor              
             td(rowspan="2").text-center Peligros
             td(rowspan="2")
-              ul.lista-ul
+              ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
                   | Explosión 
@@ -490,7 +531,7 @@
           tr(style='background-color: #F6F6F6')
             td.text-center Residuos 
             td
-              ul.lista-ul
+              ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
                   | Residuos aprovechables 
@@ -514,14 +555,14 @@
               p.mb-0(data-aos="fade-down") La EIA es el enlace entre la gestión ambiental y la gestión técnica, económica y administrativa que requieren los proyectos. Igualmente, es uno de los instrumentos de gestión de los proyectos que aportan elementos para lograr su viabilidad global. Se puede concluir entonces que toda EIA se debe realizar siguiendo secuencialmente cuatro (4) grandes fases o componentes, como se muestra a continuación:    
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 2.
+      h5 Figura 3.
       span La EIA instrumento para incorporar la variable ambiental
     img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='')
     figcaption.mb-5 Nota. Tomado de Arboleda. (2008, p.21).  
 
-    p(data-aos="fade-down").mb-5 Los tipos de impacto ambiental se derivan de los aspectos ambientales. Se podría decir que los aspectos ambientales son las causas de la interacción del ser humano con el medio ambiente, mientras que el impacto es su consecuencia. #[b A continuación, se presentan algunos ejemplos de impactos:] 
+    p(data-aos="fade-down").mb-5 Los #[b tipos de impacto ambiental] se derivan de los aspectos ambientales. Se podría decir que los aspectos ambientales son las causas de la interacción del ser humano con el medio ambiente, mientras que el impacto es su consecuencia. #[b A continuación, se presentan algunos ejemplos de impactos:] 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 3.
+      h5 Figura 4.
       span Tipos de impacto ambiental  
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10.bg5.p-5.brad

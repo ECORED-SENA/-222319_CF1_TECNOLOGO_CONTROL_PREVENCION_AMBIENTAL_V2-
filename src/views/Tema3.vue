@@ -22,7 +22,7 @@
         .row.justify-content-center.align-items-center         
           .col-6
             h5 Los procesos tienen entradas y salidas  
-            ul.lista-ul
+            ul.lista-ul.fa-ul
               li 
                 i.fas.fa-check.c1
                 | Los insumos (materias primas) 
@@ -57,7 +57,7 @@
 
     .row.justify-content-start.mb-4        
       .col-auto.bg14.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Ciclo de vida del producto:
+        h5.mb-0(data-aos="fade-down") Ciclo de vida del producto
     p(data-aos="fade-down").mb-5 La ISO 14001:2015 define el ciclo de vida como un conjunto de etapas consecutivas e interrelacionadas de un producto o servicio desde el momento en que se obtiene la materia prima hasta que se le entregan al consumidor final.  
 
     .row.justify-content-center.align-items-center.mb-5           
@@ -92,8 +92,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
-
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/CCWHzlMhv9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+        figcaption Video. Etapas metodológicas del Análisis de Ciclo de Vida
     p(data-aos="fade-down").mb-5 Con los siguientes videos se ilustrará de una manera lúdica, como diseñar un análisis del ciclo de vida según la ISO 14040 Análisis del Ciclo de vida. Haga clic en cada enlace 
 
     .row.justify-content-center.align-items-center           

@@ -28,7 +28,7 @@
         h5(data-aos="fade-down").mb-4 Un documento diagnóstico ambiental en una organización como mínimo debe tener lo siguiente:     
         .row.justify-content-center.align-items-center         
           .col-lg-7
-            ul.lista-ul(data-aos="fade-down")
+            ul.lista-ul.fa-ul(data-aos="fade-down")
               li 
                 i.fas.fa-check.c1
                 | Características del sistema socio ecológico que rodea la empresa, descripción de los componentes ambientales y su afectación. 

@@ -16,19 +16,19 @@
 
     .row.justify-content-start.mb-4        
       .col-auto.bg14.p-3(data-aos="flip-down")
-        h5.mb-0(data-aos="fade-down") Métodos de recolección de datos primarios: 
+        h5.mb-0(data-aos="fade-down") Métodos de recolección de datos primarios
 
     p(data-aos="fade-down").mb-5 los datos primarios se recolectan a partir de la experiencia de primera mano y no se basan en información previa. Esta información es específica, altamente auténtica y precisa. Los métodos de recolección de datos primarios se pueden dividir en dos categorías: #[b métodos cuantitativos y métodos cualitativos.]
 
     .bg15.mb-5.p-5
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
-          h5(data-aos="fade-down") Métodos cuantitativos: 
+          h5(data-aos="fade-down") Métodos cuantitativos 
           p(data-aos="fade-down").mb-5 los métodos cuantitativos utilizados para la investigación de mercados y la previsión de la demanda suelen emplear herramientas estadísticas. En este caso, el pronóstico de la demanda se basa en datos históricos. Estos métodos y técnicas de recolección de datos primarios se utilizan generalmente para hacer pronósticos a largo plazo, y son altamente confiables debido a que el elemento de subjetividad es mínimo.
           .row.justify-content-center.align-items-center.mb-5           
-            .col-auto
+            .col-auto.my-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/72.png', alt='')
-            .col
+            .col.my-3
               p(data-aos="fade-down") El análisis de series cronológicas o temporales, las técnicas de suavizado y el método barométrico son herramientas fundamentales para las organizaciones que buscan prever la demanda futura de sus productos y servicios.  
 
               p(data-aos="fade-down").mb-0 A continuación, se presentan estos métodos  que permiten identificar patrones y tendencias en la variación de la demanda a lo largo del tiempo, lo que ayuda a las empresas a tomar decisiones informadas y a planificar sus operaciones de manera efectiva:   
@@ -36,27 +36,27 @@
 
           AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
             .row.justify-content-center.align-items-center(titulo="Análisis de series cronológicas o temporales")
-              .col-7
+              .col-7.my-3
                 p.mb-0 Este término se refiere al orden secuencial de valores de una variable, conocido como tendencia, a intervalos de tiempo iguales. Utilizando las tendencias, una organización puede predecir la demanda de sus productos y servicios para un tiempo proyectado.              
-              .col-auto  
+              .col-auto.my-3  
                 img.img-a.img-t(src="@/assets/curso/temas/69.png")
 
             .row.justify-content-center.align-items-center(titulo="Técnicas de suavizado")
-              .col-7
-                p.mb-0 En los casos en que la serie temporal carece de tendencias significativas, se pueden utilizar técnicas de suavizado para eliminar la variación aleatoria de la demanda histórica. Esto ayuda a identificar patrones y niveles de demanda que pueden ser utilizados para estimar la demanda f            
-              .col-auto  
+              .col-7.my-3
+                p.mb-0 En los casos en que la serie temporal carece de tendencias significativas, se pueden utilizar técnicas de suavizado para eliminar la variación aleatoria de la demanda histórica. Esto ayuda a identificar patrones y niveles de demanda que pueden ser utilizados para estimar la demanda futura.            
+              .col-auto.my-3  
                 img.img-a.img-t(src="@/assets/curso/temas/70.png")
 
             .row.justify-content-center.align-items-center(titulo="Método barométrico")
-              .col-7
+              .col-7.my-3
                 p.mb-0 También conocido como enfoque de los indicadores principales, este método se utiliza para especular sobre las tendencias futuras en función de la evolución actual. Cuando un evento pasado se considera para predecir el evento futuro, el evento pasado actuaría como un indicador principal.             
-              .col-auto  
+              .col-auto.my-3  
                 img.img-a.img-t(src="@/assets/curso/temas/71.png")
 
     .bg16.mb-5.p-5
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
-          h5(data-aos="fade-down") Métodos cualitativos: 
+          h5(data-aos="fade-down") Métodos cualitativos
           p(data-aos="fade-down").mb-5 los métodos de recolección de datos cualitativos son especialmente útiles en situaciones en las que no se dispone de datos históricos y no se requieren números ni cálculos matemáticos. La investigación cualitativa está estrechamente relacionada con las palabras, los sonidos, los sentimientos, las emociones, los colores y otros elementos que no son cuantificables. Estas técnicas se basan en la experiencia, el juicio, la intuición, las conjeturas, las emociones, entre otros. 
 
           .row.justify-content-center.align-items-center.mb-5           
@@ -96,7 +96,7 @@
         .bg24.p-5.brad.h-100.text-white
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/74.svg', alt='')
           h4 Fuentes internas de datos secundarios:
-          ul.lista-ul
+          ul.lista-ul.fa-ul
             li 
               i.fas.fa-check.c1
               | Registros
@@ -117,7 +117,7 @@
         .bg25.p-5.brad.h-100
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/75.svg', alt='')
           h4 Fuentes externas de datos secundarios:
-          ul.lista-ul
+          ul.lista-ul.fa-ul
             li 
               i.fas.fa-check.c2
               | Informes de los gobiernos
