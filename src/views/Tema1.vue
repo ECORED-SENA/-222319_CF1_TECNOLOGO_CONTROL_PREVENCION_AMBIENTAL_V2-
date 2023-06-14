@@ -71,10 +71,10 @@
             p(data-aos="fade-down").mb-0 #[b La definición específica de la Conferencia de las Naciones Unidas sobre Medio Ambiente en Estocolmo (1972) señala que] “el medio ambiente es un conjunto de componentes físicos, químicos, biológicos y sociales capaces de causar efectos directos o indirectos, en un plazo corto o largo, sobre los seres vivos y las actividades humanas”. 
             i.fas.fa-quote-right    
 
-    .row.justify-content-center.mb-5           
-      .col-lg-4
+    .row.justify-content-center.mb-4          
+      .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.png', alt='') 
-      .col-lg-6
+      .col-lg-6.my-3
         .bg4.p-4.h-100.j
           p(data-aos="fade-down").mb-0 En resumen, el ecosistema es un componente del medio ambiente, y ambos son importantes para entender la relación entre el ser humano y su entorno, así como para tomar medidas efectivas para proteger y conservar nuestro planeta. <br><br> Los conceptos relacionados con el medio ambiente son cada vez más importantes en la sociedad actual debido al creciente impacto de las actividades humanas sobre el planeta. Entre los términos fundamentales para entender la relación entre el hombre y su entorno se encuentran el cambio climático, el efecto invernadero, la capa de ozono, el calentamiento global, el impacto ambiental, la contaminación y los contaminantes. 
 
@@ -127,12 +127,12 @@
         .p-4
           p(data-aos="fade-down").mb-0 En muchas ocaciones , las empresas tratan de minimizar la connotación de su impacto ambiental al reducirlo a la afectación de una población o de un individuo, para así disminuir la multa. Sin embargo, esto no significa que sea menos importante, ya que puede tratarse de una especie en via de extinción, importante para mantener el eslabón de la cadena alimenticia, una especie con funciones ecosistémicas esenciales, una cría o hembra, entre otros aspectos.
 
-    .row.justify-content-center.mb-5 
-      .col-lg-7
+    .row.justify-content-center.mb-4
+      .col-lg-7.my-3
         .bg4.p-5.h-100
           p(data-aos="fade-down") En función de cada caso, estas variables pueden generar multas millonarias, pero en ocasiones las empresas tienen los recursos para pagarlas. Por lo tanto, también existen sanciones de sellamiento y clausura.  
           p(data-aos="fade-down").mb-0 Reconocer los hábitats de las especies en el área de influencia de un proyecto u organización y evaluar cómo las actividades de esta afectan ese hábitat, ya sea de manera directa a la especie o indirecta al contaminar o afectar el agua, el suelo, el aire, es fundamental para identificar medidas de prevención y mitigación ambiental.                
-      .col-lg-5
+      .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/13.png', alt='') 
 
         
@@ -155,8 +155,8 @@
       h5 Figura 1. 
       span  Componentes ambientales 
 
-    .row.justify-content-center.mb-5           
-      .col-lg-4
+    .row.justify-content-center.mb-4           
+      .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
             img.img-a.img-t(src='@/assets/curso/temas/16.svg' alt='AvatarTop')
 
@@ -165,7 +165,7 @@
                 h4.text-center Medio Abiótico 
                 p.mb-0 Incluye los componentes geológicos, geomorfológico, paisajístico, suelo y uso del suelo,  hidrológico, hidrogeológico, oceanográfico, geotencio y atmosférico entre otros    
 
-      .col-lg-4
+      .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
             img.img-a.img-t(src='@/assets/curso/temas/17.svg' alt='AvatarTop')
 
@@ -174,7 +174,7 @@
                 h4.text-center Medio Biótico 
                 p.mb-0 Comprende los componentes flora, fauna e hidrobiotica  
 
-      .col-lg-4
+      .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
             img.img-a.img-t(src='@/assets/curso/temas/18.svg' alt='AvatarTop')
 
@@ -272,8 +272,8 @@
 
     p(data-aos="fade-down").mb-5 Para  definir el área de influencia, es necesario estimar la localización, tipo e intensidad de uso de los recursos durante las distintas fases del desarrollo del proyecto, obra o actividad, así como considerar los impactos generados sobre estos y su variación en tiempo y espacio. (Arboleda, 2008, p.102).
 
-    .row.justify-content-center.mb-5           
-      .col-lg-5
+    .row.justify-content-center.mb-4          
+      .col-lg-5.my-3
         .tarjeta.tarjeta-avatar.h-100
             img.img-a.img-t.img-big(src='@/assets/curso/temas/25.png' alt='AvatarTop')
 
@@ -282,7 +282,7 @@
                 h4.text-center Área de influencia directa (AID) 
                 p.mb-0 El área de influencia directa es aquella donde se presentan los impactos generados en las fases de construcción y/o operación de un proyecto, obra o actividad; está relacionada con el sitio donde se ubica la organización y su infraestructura.  De acuerdo con el impacto generado el área puede o no cambiar y de acuerdo con esto se deben delimitar las áreas de influencia sobre todos los componentes.    
 
-      .col-lg-5
+      .col-lg-5.my-3
         .tarjeta.tarjeta-avatar.h-100
             img.img-a.img-t.img-big(src='@/assets/curso/temas/26.png' alt='AvatarTop')
 
@@ -408,40 +408,40 @@
           h5 Figura 2.
           span Tipos de aspecto ambiental       
         .row.justify-content-center.text-center
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard1.p-5.h-100.j
               p.py-2.mb-0 Generación de Residuos  
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard2.p-5.h-100.j
               p.py-2.mb-0 Consumo de Agua 
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard3.p-5.h-100.j
               p.py-2.mb-0 Consumo de Materiales
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard4.p-5.h-100.j
               p.py-2.mb-0 Consumo de Agua
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard1.p-5.h-100.j
               p.mb-0 Vertimientos  
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard5.p-5.h-100.j
               p.mb-0 Generación de Ruidos
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard2.p-5.h-100.j
               p.mb-0 Generación de Residuos de aparatos Eléctricos y electrónicos 
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard6.p-5.h-100.j
               p.mb-0 Generación de Escombros y malos Olores           
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard5.p-5.h-100.j
               p.mb-0 Publicidad exterior Visual
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard7.p-5.h-100.j
               p.mb-0 Educación ambiental. (+)  
-          .col-lg-3.my-3(data-aos="fade-right")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard4.p-5.h-100.j
               p.mb-0 Generación de Calor
-          .col-lg-3.my-3(data-aos="fade-left")
+          .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard5.p-5.h-100.j
               p.mb-0 Criterios Ambientales para la adquisición de insumos y materiales. (+)
 

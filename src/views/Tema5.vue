@@ -9,17 +9,18 @@
 
     p(data-aos="fade-down").mb-5 Si una empresa quiere ser responsable, el primer paso es ser consecuente con los impactos de su actividad en el medio ambiente y en la sociedad. La gestión ambiental implica integrar las preocupaciones medioambientales en la toma de decisiones y operaciones de la organización. Para ello, es necesario el compromiso de la dirección, la medición y evaluación de impactos, el desarrollo de procesos y productos respetuosos con el entorno, y el diálogo y sensibilización con iniciativas que promuevan la sostenibilidad. Sin embargo, antes de abordar la gestión ambiental, es indispensable realizar un diagnóstico ambiental preliminar. 
 
-    .row.justify-content-center.mb-5           
-      .col-lg-7
+    .row.justify-content-center.mb-4           
+      .col-lg-7.my-3
         .bg26.p-4.mb-4.h-100.j
           p(data-aos="fade-down").mb-0 A partir de este diagnóstico ambiental, la organización podrá conocer e interpretar su impacto ambiental y determinar si sus actuaciones son o no aceptables desde este punto de vista. 
             br
             |#[b ¿Pero qué beneficios obtiene la organización con esta evaluación ambiental inicial ? Aquí se presentan algunos de ellos:] 
-      .col-lg-5       
+      .col-lg-5.my-3       
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/76.png', alt='')  
 
     h4.text-center(data-aos="fade-down").mb-5 Diagnóstico ambiental
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/77.svg', alt='') 
+    img.img-a.img-t.mb-5.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/77.svg', alt='') 
+    img.img-a.img-t.mb-5.d-block.d-lg-none(data-aos="zoom-in")(src='@/assets/curso/temas/77_1.svg', alt='') 
 
     .row.justify-content-center.align-items-center          
       .col-lg-10.bg12.p-5

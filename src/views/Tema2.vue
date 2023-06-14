@@ -35,18 +35,18 @@
                     span Ver Video
                     i.fab.fa-youtube   
 
-    .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-7
+    .row.justify-content-start.align-items-center.mb-4           
+      .col-lg-7.my-3.order-1
         .color-fondo-text.bg-color.p-1(data-aos="fade-down")
           .color-fondo-text__texto 
             p.mb-0 #[b Las normas más relevantes en materia de legislación ambiental en Colombia se pueden consultar en la página web del Ministerio de Medio Ambiente, en la sección de Normatividad.] Además, es importante revisar la normatividad ambiental local, la cual puede variar según la jurisdicción de la organización, pudiendo ser regulada por la Secretaría Distrital de Ambiente, Áreas Metropolitanas o Corporaciones Autónomas Regionales, entre otras entidades.   
-      .col-lg-3
+      .col-lg-3.my-3.order-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.svg', alt='') 
 
-    .row.justify-content-end.align-items-center.mb-5 
-      .col-lg-3
+    .row.justify-content-end.align-items-center.mb-4 
+      .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/43.svg', alt='')                
-      .col-lg-7
+      .col-lg-7.my-3
         p(data-aos="fade-down").mb-0 #[b Un normograma es una herramienta en donde se clasifican y jerarquizan las normas] que regulan el actuar de diferentes campos y objetos misionales, cuyo propósito es tener la información pertinente para ejecución de estas en un campo o sector determinado, ambientalmente hablando, el normograma ambiental nos ayuda a identificar y clasificar las normas dependiendo el recurso en cuestión ya sea agua, aire, suelo, entre otras. 
        
     .row.justify-content-center.align-items-center.mb-5           
@@ -135,6 +135,52 @@
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/50.jpg', alt='')      
 
+    img.img-a.img-t.mb-5(src='@/assets/curso/temas/80.png', alt='')      
+
+    p(data-aos="fade-down").mb-5 #[b Sistema Nacional Ambiental SINA:] en Colombia la ley 99 de 1993 creó el Sistema Nacional Ambiental (SINA), que se define como el conjunto de orientaciones, normas, actividades, recursos, programas e instituciones que permiten la puesta en marcha de los principios generales ambientales contenidos en la Constitución Política de Colombia de 1991 y la ley 99 de 1993.  
+
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10
+        .row.justify-content-between.mx-0.bg11.mb-3(data-aos="flip-down")
+          .col-auto.p-0
+            img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
+          .col
+            .p-3.my-4.me-2
+              h4(data-aos="fade-down") Sabias que . . . ? 
+              p(data-aos="fade-down").mb-0 EL SINA esta integrado por el ministerio del medio ambiente, las Corporaciones Autónomas Regionales, las entidades Territoriales y los Institutos de Investigación adscritos y vinculados al MINAMBIENTE 
+
+    h4(data-aos="fade-down") ¿Sabe cuáles son las principales funciones del SINA?                  
+    p(data-aos="fade-down").mb-5 El Sistema Nacional Ambiental realiza las funciones que se presentan a continuación: 
+
+    ImagenInfografica.color-secundario.mb-5
+      template(v-slot:imagen)
+        figure
+          img.img-a.img-t(src='@/assets/curso/temas/81_1.svg', alt='')
+      .tarjeta.bg-card.p-3(x="58.5%" y="13.4%" numero="")
+        p.mb-0 Dirigir y coordinar el Sistema Nacional Ambiental.      
+      .tarjeta.bg-card.p-3(x="65%" y="27.5%" numero="")
+        p.mb-0 Apoyar y coordinar los procesos de planificación de las autoridades ambientales   
+      .tarjeta.bg-card.p-3(x="67.5%" y="49.8%" numero="")
+        p.mb-0 Definir y orientar, de acuerdo con las directrices del ministro, las líneas de investigación y estudios ambientales.   
+      .tarjeta.bg-card.p-3(x="65.4%" y="72.6%" numero="")
+        p.mb-0 Orientar y coordinar la creación de espacios y mecanismos para fomentar la coordinación, fortalecimiento, articulación y mutua cooperación de las entidades que integran el Sistema Nacional Ambiental.    
+      .tarjeta.bg-card.p-3(x="58.6%" y="86.6%" numero="")
+        p.mb-0 Solicitar a las autoridades ambientales y demás entidades del Sector la información que se requiera para la formulación de la política ambiental y el seguimiento a la ejecución de sus planes y programas.   
+      .tarjeta.bg-card.p-3(x="49.7%" y="93.5%" numero="")
+        p.mb-0 Definir los aspectos ambientales, para la formulación de las políticas nacionales de población.   
+      .tarjeta.bg-card.p-3(x="40.9%" y="89%" numero="")
+        p.mb-0 Brindar orientación a las entidades territoriales.  
+  
+      .tarjeta.bg-card.p-3(x="34.3%" y="72.7%" numero="")
+        p.mb-0 Coordinar con el Viceministerio la formulación e implementación de la política de ordenamiento ambiental del territorio. 
+      .tarjeta.bg-card.p-3(x="32.6%" y="51%" numero="")
+        p.mb-0 Proponer las regulaciones ambientales sobre uso del suelo.      
+      .tarjeta.bg-card.p-3(x="34.3%" y="27.5%" numero="")
+        p.mb-0 Emitir conceptos técnicos sobre los planes de ordenamiento territorial de los municipios y distritos.  
+      .tarjeta.bg-card.p-3(x="40.8%" y="13%" numero="")
+        p.mb-0 Impartir directrices a las entidades territoriales, sectores económicos y demás agentes productivos, de servicios y del conocimiento en el manejo de los efectos e impactos ambientales de los desastres naturales.
+      .tarjeta.bg-card.p-3(x="49.7%" y="6.5%" numero="")
+        p.mb-0 Orientar la formulación de la política y los mecanismos para la protección del conocimiento tradicional asociado a la conservación y uso sostenible de la biodiversidad.                                                     
     p(data-aos="fade-down").mb-5 Teniendo en cuenta todas estas funciones que realiza en SINA, vemos la importancia de este organismo en el desarrollo sistémico y organizado para la realidad ambiental en nuestro país.  Visualice el video que muestra lo que se ha realizado a partir de su creación en 1993 y gestión realizada hasta nuestros días: clic al video: 
 
     .row.justify-content-center.align-items-center.mb-5           
