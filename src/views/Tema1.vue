@@ -86,7 +86,7 @@
           ImagenInfografica.color-acento-botones(data-aos="fade-left")
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/9.svg', alt='Infografia')
+                img(src='@/assets/curso/temas/9.svg', alt='La imagen presenta y describe diferentes temas relacionados con los problemas ambientales, como son: calentamiento global, efecto invernadero, cambio climático, impacto ambiental, contaminante, contaminación y capa de ozono.')
 
             .tarjeta.color-acento-botones.p-3(x="5.5%" y="84%" numero="")
               .h5.mb-2 Calentamiento global
@@ -304,7 +304,7 @@
 
     .tarjeta.tarjeta--gris.p-4.my-5
       LineaTiempoC.color-acento-botones
-        .row.justify-content-center(titulo="1. Información")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Consultar información del área de estudio  
             .row.justify-content-center.align-items-center.bg20.brad.p-4           
@@ -313,7 +313,7 @@
 
               .col-lg.col-md-11.my-3
                 p.mb-0 Consultar información secundaria del área de estudio, como cartografía de Googlemaps, Guía de Zonificación y Codificación de Cuencas Hidrográficas, planchas del Servicio Geológico Colombiano, fotografías satelitales e información oficial de índole local, regional y nacional, para cada uno de los componentes ambientales, considerando la ubicación del proyecto, obra o actividad.     
-        .row.justify-content-center(titulo="2. Reconocimiento")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Realizar reconocimiento del área  
             .row.justify-content-center.align-items-center.bg20.brad.p-4           
@@ -322,7 +322,7 @@
 
               .col-lg.col-md-11.my-3
                 p.mb-0 Realizar reconocimiento del área, con el fin de corroborar la información secundaria consultada y la establecida en las imágenes satelitales, haciendo uso de recorridos definidos y estableciendo y/o ratificando puntos de interés para el levantamiento de información y/o muestreos.      
-        .row.justify-content-center(titulo="3. Aspectos")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Identificar aspectos relevantes  
             p 
@@ -332,7 +332,7 @@
 
               .col-lg.col-md-11.my-3
                 p.mb-0 Identificar aspectos relevantes y establecer puntos de interés por su vulnerabilidad o conservación ambiental y social de los medios físicos, como bióticos y socioeconómicos.     
-        .row.justify-content-center(titulo="4. Actividades")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Definir las actividades propuestas  
             p 
@@ -342,7 +342,7 @@
 
               .col-lg.col-md-11.my-3
                 p.mb-0 Definir las actividades propuestas para las diferentes fases, de acuerdo con las necesidades del proyecto, obra o actividad.   
-        .row.justify-content-center(titulo="5. Unidades")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Identificar las unidades mínimas de análisis 
             .row.justify-content-center.align-items-center.bg20.brad.p-4           
@@ -351,7 +351,7 @@
 
               .col-lg.col-md-11.my-3
                 p.mb-0 Identificar las unidades mínimas de análisis para cada uno de los componentes (p.ej. hídrico, geológico, geomorfológico, flora, fauna, demográfico, espacial, cultural, entre otros), que se presenten como relevantes.     
-        .row.justify-content-center(titulo="6. Influencia")
+        .row.justify-content-center(titulo="")
           .col-11.bg19.brad.p-5.h-100
             h5.mb-4 Definir área de influencia  
             .row.justify-content-center.align-items-center.bg20.brad.p-4           
@@ -410,40 +410,40 @@
         .row.justify-content-center.text-center
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard1.p-5.h-100.j
-              p.py-2.mb-0 Generación de Residuos  
+              p.py-2.mb-0 Generación de residuos.  
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard2.p-5.h-100.j
-              p.py-2.mb-0 Consumo de Agua 
+              p.py-2.mb-0 Consumo de agua. 
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard3.p-5.h-100.j
-              p.py-2.mb-0 Consumo de Materiales
+              p.py-2.mb-0 Consumo de materiales.
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard4.p-5.h-100.j
-              p.py-2.mb-0 Consumo de Agua
+              p.py-2.mb-0 Consumo de agua.
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard1.p-5.h-100.j
-              p.mb-0 Vertimientos  
+              p.mb-0 Vertimientos.  
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard5.p-5.h-100.j
-              p.mb-0 Generación de Ruidos
+              p.mb-0 Generación de ruidos.
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard2.p-5.h-100.j
-              p.mb-0 Generación de Residuos de aparatos Eléctricos y electrónicos 
+              p.mb-0 Generación de residuos de aparatos eléctricos y electrónicos. 
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard6.p-5.h-100.j
-              p.mb-0 Generación de Escombros y malos Olores           
+              p.mb-0 Generación de escombros y malos olores.           
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard5.p-5.h-100.j
-              p.mb-0 Publicidad exterior Visual
+              p.mb-0 Publicidad exterior visual.
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard7.p-5.h-100.j
               p.mb-0 Educación ambiental. (+)  
           .col-lg-3.col-md-6.my-3(data-aos="fade-right")
             .bcard4.p-5.h-100.j
-              p.mb-0 Generación de Calor
+              p.mb-0 Generación de calor.
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard5.p-5.h-100.j
-              p.mb-0 Criterios Ambientales para la adquisición de insumos y materiales. (+)
+              p.mb-0 Criterios ambientales para la adquisición de insumos y materiales. (+)
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
