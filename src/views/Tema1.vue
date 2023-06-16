@@ -26,35 +26,35 @@
 
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t.img-w(src='@/assets/curso/temas/3.svg' alt='AvatarTop')
+        img.img-a.img-t.img-w(src='@/assets/curso/temas/3.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4
             h4 Individuo 
             p.mb-0 Todo ser vivo, independientemente de su complejidad biológica, es un individuo, capaz de realizar todas las funciones vitales: nutrición, relación y reproducción.       
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t.img-w(src='@/assets/curso/temas/4.svg' alt='AvatarTop')
+        img.img-a.img-t.img-w(src='@/assets/curso/temas/4.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4
             h4 Especie 
             p.mb-0 Es el conjunto de individuos que comparten características similares y pueden reproducirse entre ellos, dando lugar a descendencia fértil. Por ejemplo, los perros, los gatos, los leones y los humanos son especies diferentes.                
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t.img-w(src='@/assets/curso/temas/5.svg' alt='AvatarTop')
+        img.img-a.img-t.img-w(src='@/assets/curso/temas/5.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4
             h4 Población 
             p.mb-0 Son todos los individuos de una misma especie que viven en un área geográfica determinada y que interactúan entre ellos. Por ejemplo, una población de osos en un bosque.      
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t.img-w(src='@/assets/curso/temas/6.svg' alt='AvatarTop')
+        img.img-a.img-t.img-w(src='@/assets/curso/temas/6.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4
             h4 Comunidad 
             p.mb-0 Es el conjunto de poblaciones de diferentes especies que viven y interactúan en un mismo ecosistema. Por ejemplo, una comunidad de animales en un bosque o una comunidad de plantas en una pradera.       
       .tarjeta.tarjeta-avatar.h-100
-        img.img-a.img-t.img-w(src='@/assets/curso/temas/7.svg' alt='AvatarTop')
+        img.img-a.img-t.img-w(src='@/assets/curso/temas/7.svg' alt='')
 
         .tarjeta.color-primario.bg10.ts.h-100
           .p-4
@@ -122,7 +122,7 @@
 
     .row.justify-content-center.align-items-center.bg7.mb-5
       .col-lg-4.p-0
-        img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/12.png')      
+        img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')      
       .col-lg-8(data-aos="fade-down")
         .p-4
           p(data-aos="fade-down").mb-0 En muchas ocaciones , las empresas tratan de minimizar la connotación de su impacto ambiental al reducirlo a la afectación de una población o de un individuo, para así disminuir la multa. Sin embargo, esto no significa que sea menos importante, ya que puede tratarse de una especie en via de extinción, importante para mantener el eslabón de la cadena alimenticia, una especie con funciones ecosistémicas esenciales, una cría o hembra, entre otros aspectos.
@@ -158,7 +158,7 @@
     .row.justify-content-center.mb-4           
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
-            img.img-a.img-t(src='@/assets/curso/temas/16.svg' alt='AvatarTop')
+            img.img-a.img-t(src='@/assets/curso/temas/16.svg' alt='')
 
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
@@ -167,7 +167,7 @@
 
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
-            img.img-a.img-t(src='@/assets/curso/temas/17.svg' alt='AvatarTop')
+            img.img-a.img-t(src='@/assets/curso/temas/17.svg' alt='')
 
             .tarjeta.color-primario.bg9.bra.ts.h-100
               .p-4.pt-5
@@ -176,7 +176,7 @@
 
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
-            img.img-a.img-t(src='@/assets/curso/temas/18.svg' alt='AvatarTop')
+            img.img-a.img-t(src='@/assets/curso/temas/18.svg' alt='')
 
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
@@ -275,7 +275,7 @@
     .row.justify-content-center.mb-4          
       .col-lg-5.my-3
         .tarjeta.tarjeta-avatar.h-100
-            img.img-a.img-t.img-big(src='@/assets/curso/temas/25.png' alt='AvatarTop')
+            img.img-a.img-t.img-big(src='@/assets/curso/temas/25.png' alt='')
 
             .tarjeta.color-primario.bg17.bra.ts.h-100
               .p-4.pt-5
@@ -284,7 +284,7 @@
 
       .col-lg-5.my-3
         .tarjeta.tarjeta-avatar.h-100
-            img.img-a.img-t.img-big(src='@/assets/curso/temas/26.png' alt='AvatarTop')
+            img.img-a.img-t.img-big(src='@/assets/curso/temas/26.png' alt='')
 
             .tarjeta.color-primario.bg18.bra.ts.h-100
               .p-4.pt-5
@@ -570,28 +570,28 @@
           .col-lg-11
             .tarjeta-avatar-b.mb-3
               .tarjeta-avatar-b__img
-                img.img-t(src='@/assets/curso/temas/37.svg' alt='AvatarTop')
+                img.img-t(src='@/assets/curso/temas/37.svg' alt='')
               .tarjeta.tarjeta--azul.bgw
                 .p-4
                   p #[b Aspecto ambiental:] tala de árboles (causa) y el impacto ambiental (consecuencia) deforestación y desplazamiento de especie.   
 
             .tarjeta-avatar-b.mb-3
               .tarjeta-avatar-b__img
-                img.img-t(src='@/assets/curso/temas/38.svg' alt='AvatarTop')
+                img.img-t(src='@/assets/curso/temas/38.svg' alt='')
               .tarjeta.tarjeta--azul.bgw
                 .p-4
                   p #[b Generación de residuos] (causa) y el impacto ambiental (consecuencia) sobrepresión en el relleno sanitario.    
 
             .tarjeta-avatar-b.mb-3
               .tarjeta-avatar-b__img
-                img.img-t(src='@/assets/curso/temas/39.svg' alt='AvatarTop')
+                img.img-t(src='@/assets/curso/temas/39.svg' alt='')
               .tarjeta.tarjeta--azul.bgw
                 .p-4
                   p #[b Generación de emisiones] (causa) y el impacto contaminación del aire (consecuencia).   
 
             .tarjeta-avatar-b
               .tarjeta-avatar-b__img
-                img.img-t(src='@/assets/curso/temas/40.svg' alt='AvatarTop')
+                img.img-t(src='@/assets/curso/temas/40.svg' alt='')
               .tarjeta.tarjeta--azul.bgw
                 .p-4
                   p #[b Generación de vertimientos] (causa) y el impacto ambiental contaminación del agua (consecuencia).                                     
