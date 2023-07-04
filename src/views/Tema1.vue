@@ -163,7 +163,7 @@
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
                 h4.text-center Medio Abiótico 
-                p.mb-0 Incluye los componentes geológicos, geomorfológico, paisajístico, suelo y uso del suelo,  hidrológico, hidrogeológico, oceanográfico, geotencio y atmosférico entre otros    
+                p.mb-0 Incluye los componentes geológicos, geomorfológico, paisajístico, suelo y uso del suelo,  hidrológico, hidrogeológico, oceanográfico, geotécnico y atmosférico entre otros    
 
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
@@ -181,7 +181,7 @@
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
                 h4.text-center Medio socioeconómico 
-                p.mb-0 Consta de los componentes demográfico, espacial, económico, cultural, arqueológico y politico - organizativo 
+                p.mb-0 Consta de los componentes demográfico, espacial, económico, cultural, arqueológico y político - organizativo 
 
     p(data-aos="fade-down").mb-5 Para realizar un diagnóstico ambiental de la organización, es fundamental identificar los componentes ambientales que rodean su área de influencia directa e indirecta. #[b De esta manera, se podrá definir si estas actividades pueden estar afectando o pueden afectar los componentes ambientales.] 
 
@@ -192,7 +192,7 @@
             img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
           .col
             .p-3.my-4.me-2
-              p(data-aos="fade-down").mb-0 Identificar los componentes ambientales en un area de estudios se conoce como linea base o inventario ambiental, y es una parte importante del diagnostico ambiental en una organización  
+              p(data-aos="fade-down").mb-0 Identificar los componentes ambientales en un área de estudios se conoce como línea base o inventario ambiental, y es una parte importante del diagnóstico ambiental en una organización  
 
     .row.justify-content-center.align-items-center.bg12.mb-5
       .col-lg-6(data-aos="fade-down")
@@ -219,7 +219,7 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/hHY95-zgUGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/E6BuXvBZeVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
           figcaption Video. Identificación de los componentes ambientales de acuerdo al contexto
 
     .bg16.p-5.mb-5
@@ -246,7 +246,7 @@
             .col
               .p-3.my-4.me-2
                 h4(data-aos="fade-down") Infraestructura socioeconómica 
-                p(data-aos="fade-down").mb-0 Servicios e instalaciones publicas y privadas, el transporte, las viviendas, las escuelas, los parques, la protección policial y contra incendios, los servicios de salud, el abastecimiento de agua y desagüe, el manejo del agua de lluvia y los desechos sólidos.     
+                p(data-aos="fade-down").mb-0 Servicios e instalaciones públicas y privadas, el transporte, las viviendas, las escuelas, los parques, la protección policial y contra incendios, los servicios de salud, el abastecimiento de agua y desagüe, el manejo del agua de lluvia y los desechos sólidos.     
 
           .row.justify-content-between.mx-0.bg11.mb-3(data-aos="flip-down")
             .col-auto.p-0
@@ -254,7 +254,7 @@
             .col
               .p-3.my-4.me-2
                 h4(data-aos="fade-down") El tráfico 
-                p(data-aos="fade-down").mb-0 El proyecto podría tener impacto en el corto o largo plazo sobre las vías de acceso o los niveles de trafico, así como los recursos energéticos y los materiales peligrosos   
+                p(data-aos="fade-down").mb-0 El proyecto podría tener impacto en el corto o largo plazo sobre las vías de acceso o los niveles de tráfico, así como los recursos energéticos y los materiales peligrosos   
 
     .bg16.p-5.mb-5
       h5(data-aos="fade-down") Recursos culturales y estéticos: 

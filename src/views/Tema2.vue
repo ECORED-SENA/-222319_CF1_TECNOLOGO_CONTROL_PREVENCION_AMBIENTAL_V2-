@@ -12,10 +12,10 @@
     .row.justify-content-center.mb-5           
       .col-lg-4.p-0(data-aos="flip-down")
         .bg21.p-5.h-100.j
-          h5.mb-0.text-white ¿Que es el ordenamiento Jurídico?    
+          h5.mb-0.text-white ¿Qué es el ordenamiento Jurídico?    
       .col-lg-6.p-0
         .bg22.p-4.h-100.j
-          p(data-aos="fade-down").mb-0 En colombia el derecho se presenta como un sistema jerarquizado de normas que denominamos ordenamiento jurídico. Es así como el ordenamiento juridico se fundamenta en unas normas de mayor jerarquía que son la constitución Política o Constitución Nacional, que en Colombia es la expedida por la Asamblea Nacional Constituyente de 1991.
+          p(data-aos="fade-down").mb-0 En Colombia el derecho se presenta como un sistema jerarquizado de normas que denominamos ordenamiento jurídico. Es así como el ordenamiento jurídico se fundamenta en unas normas de mayor jerarquía que son la constitución Política o Constitución Nacional, que en Colombia es la expedida por la Asamblea Nacional Constituyente de 1991.
 
       .col-lg-10
         p.mt-5(data-aos="fade-down") Para comprender cómo funcionan las normas en Colombia, es necesario entender cómo se hacen las leyes en el país. En el siguiente video se puede observar cómo funciona el sistema legislativo.  
@@ -146,7 +146,7 @@
             img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
           .col
             .p-3.my-4.me-2
-              h4(data-aos="fade-down") Sabias que . . . ? 
+              h4(data-aos="fade-down") ¿Sabías que . . . ? 
               p(data-aos="fade-down").mb-0 EL SINA esta integrado por el ministerio del medio ambiente, las Corporaciones Autónomas Regionales, las entidades Territoriales y los Institutos de Investigación adscritos y vinculados al MINAMBIENTE 
 
     h4(data-aos="fade-down") ¿Sabe cuáles son las principales funciones del SINA?                  
@@ -192,7 +192,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Ministerio de Ambiente y Desarrollo Sostenible –Colombia (2019, diciembre 5) Antioquia conmemoró los 25 años del Sistema Nacional Ambiental.
+                  p.mb-0 Ministerio de Ambiente y Desarrollo Sostenible – Colombia (2019, diciembre 5) Antioquia conmemoró los 25 años del Sistema Nacional Ambiental.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?time_continue=31&v=nbfpvNzuYD4&feature=emb_logo" target="_blank")
                     span Ver Video

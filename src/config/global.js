@@ -276,18 +276,18 @@ export default {
           nombre: 'Natalia Andrea Bueno Pizarro',
           cargo: 'Evaluadora Instruccional',
           centro: 'Regional Bogotá- CENIGRAF',
-        },
+        },        
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
         {
           nombre: 'Paola Alexandra Moya Peralta',
           cargo: 'Diseñadora instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
-      ],
-    },
-    {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
         {
           nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de Contenidos Digitales',
