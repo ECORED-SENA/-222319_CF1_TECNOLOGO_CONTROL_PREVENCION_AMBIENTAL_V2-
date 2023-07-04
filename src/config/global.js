@@ -276,7 +276,7 @@ export default {
           nombre: 'Natalia Andrea Bueno Pizarro',
           cargo: 'Evaluadora Instruccional',
           centro: 'Regional Bogotá- CENIGRAF',
-        }, 
+        },
       ],
     },
     {
