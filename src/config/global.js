@@ -122,14 +122,14 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Bases conceptuales de medio e impacto ambiental',
+      tema: 'Bases conceptuales de medio e impacto ambiental',
       referencia:
         'National Geographic (2015, Noviembre 26) El impacto ambiental del hombre 2007 (completo) [Archivo de video] Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=jNmkU7CDE80&feature=youtu.be',
     },
     {
-      tema: '3. Identificación de impactos ambientales por ciclo de vida',
+      tema: 'Identificación de impactos ambientales por ciclo de vida',
       referencia:
         'Biblioteca del plástico (2016 junio 7) Análisis de Ciclo de Vida. [Archivo de video] Youtube.',
       tipo: 'Video',
@@ -187,13 +187,9 @@ export default {
     },
     {
       referencia:
-        'Arboleda, J. A. (2008). <i>Manual de evaluación de impacto ambiental de proyectos, obra o actividades</i>. Medellín, Colombia.',
-      link: 'https://doi.org/10.1017/CBO9781107415324.004',
-    },
-    {
-      referencia:
         'Conferencia de las Naciones Unidas sobre Medio Ambiente en Estocolmo. (1972). <i>Declaración de la Conferencia de las Naciones Unidas sobre el Medio Humano. Estocolmo, 5-16 de junio de 1972</i>.',
-      link: 'https://daccess-ods.un.org/tmp/9892757.53498077.html',
+      link:
+        'https://wedocs.unep.org/bitstream/handle/20.500.11822/29567/ELGP1StockD_SP.pdf?sequence=',
     },
     {
       referencia:

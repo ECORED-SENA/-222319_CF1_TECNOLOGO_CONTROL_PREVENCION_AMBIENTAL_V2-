@@ -94,7 +94,6 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/CCWHzlMhv9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
         figcaption Video. Etapas metodológicas del Análisis de Ciclo de Vida
-    p(data-aos="fade-down").mb-5 Con los siguientes videos se ilustrará de una manera lúdica, como diseñar un análisis del ciclo de vida según la ISO 14040 Análisis del Ciclo de vida. Haga clic en cada enlace 
 
     .row.justify-content-center.align-items-center           
       .col-lg-10
@@ -107,7 +106,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Se recomienda consultar la norma NTC-ISO 14001-2015 Sistema de gestión ambiental – requisitos con orientación para su uso.  
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://online-viewer-techstreet-com.bdigital.sena.edu.co/virtualviewer/?clientInstanceId=eyJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiZGFlMTc1NTktYTk3Mi00M2RkLWI0MTctNTk3ZDU5NjcwYWE2IiwidXNlcl9pZCI6MCwidXNlcl9sb2NhdGlvbiI6IkJvZ290YSwgQ29sb21iaWEiLCJkb2N1bWVudF9pZCI6IklTTysxNDAwMS0yMDE1KFMpOjM3NjktMCIsImRvY3VtZW50X3RpdGxlIjoiSVNPIDE0MDAxOjIwMTUiLCJkb2N1bWVudF9zaXplIjo3MDMxNDYsImRvY3VtZW50X3VybCI6Imh0dHA6Ly9jb250ZW50LnByb2QtdGVjaHN0cmVldC5jb206ODAvY2dpLWJpbi9kb3dubG9hZC5wbD9maWxlTmFtZT1JU08vSVNPJTJCMTQwMDEtMjAxNSUyOFMlMjkucGRmJnRleHQ9Q29weXJpZ2h0ZWQrbWF0ZXJpYWwrbGljZW5zZWQrdG8rU0VOQSUyQytEaXJlY2Npb24rZGUrZm9ybWFjaW9uK2J5K1RlY2hzdHJlZXQrTExDJTJDK3N1YnNjcmlwdGlvbnMudGVjaHN0cmVldC5jb20lMkMrZG93bmxvYWRlZCtvbisyMDIzLTAzLTI2KzIyJTNBMjElM0E1MislMkIwMDAwK2J5K1NFTkElMkMrRGlyZWNjaW9uK2RlK2Zvcm1hY2lvbitVc2VyLiUwQStObytmdXJ0aGVyK3JlcHJvZHVjdGlvbitvcitkaXN0cmlidXRpb24raXMrcGVybWl0dGVkLiZwZGZfcmVwYWlyPWZhbHNlJnBkZl93YXRlcm1hcms9dHJ1ZSZwZGZfb3B0aW1pemF0aW9uPWZhbHNlIn0.HPrEIxl5tTGGAE8mBFJNNBlgDxKZYNhk6azz5q1e-4g&documentId=ISO%2B14001-2015%28S%29:3769-0" target="_blank")
+                  a.boton.color-acento-botones(href="https://subscriptions-techstreet-com.bdigital.sena.edu.co/products/689336 " target="_blank")
                     span Descargar
                     i.fas.fa-file-download     
 

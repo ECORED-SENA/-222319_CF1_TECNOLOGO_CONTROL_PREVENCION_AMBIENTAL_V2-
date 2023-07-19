@@ -88,7 +88,7 @@
     p(data-aos="fade-down").mb-5 Los métodos y técnicas de recolección de datos secundarios son los datos que se han utilizado en el pasado. El investigador puede obtener datos de las fuentes tanto internas como externas a la organización.  
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 6.
+      h5 Figura 7.
       span Fuentes secundarios: 
 
     .row.justify-content-center.align-items-center.mb-5           

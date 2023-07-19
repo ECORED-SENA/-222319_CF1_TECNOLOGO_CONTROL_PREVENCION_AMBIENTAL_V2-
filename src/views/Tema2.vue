@@ -107,7 +107,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Ministerio de Ambiente y Desarrollo Sostenible 
-            p El Ministerio de Ambiente y Desarrollo Sostenible es el rector de la gestión del ambiente y de los recursos naturales renovables.   
+            p Es el rector de la gestión del ambiente y de los recursos naturales renovables.   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/46.png', alt='')      
         .row.justify-content-center.mt-3
@@ -131,7 +131,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Autoridades ambientales urbanas  
-            p Estas instituciones están encargadas de promover y ejecutar programas y políticas nacionales, regionales y sectoriales en relación con el medio ambiente y los recursos naturales renovables (las mismas funciones de las Corporaciones Autónomas Regionales) en los municipios, distritos o áreas metropolitanas cuya población urbana fuere igual o superior a un millón de habitantes   
+            p Estas instituciones están encargadas de promover y ejecutar programas y políticas nacionales, regionales y sectoriales en relación con el medio ambiente y los recursos naturales renovables (las mismas funciones de las Corporaciones Autónomas Regionales) en los municipios, distritos o áreas metropolitanas cuya población urbana fuere igual o superior a un millón de habitantes.   
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/50.jpg', alt='')      
 
@@ -147,7 +147,7 @@
           .col
             .p-3.my-4.me-2
               h4(data-aos="fade-down") ¿Sabías que . . . ? 
-              p(data-aos="fade-down").mb-0 EL SINA esta integrado por el ministerio del medio ambiente, las Corporaciones Autónomas Regionales, las entidades Territoriales y los Institutos de Investigación adscritos y vinculados al MINAMBIENTE 
+              p(data-aos="fade-down").mb-0 EL SINA esta integrado por el ministerio del medio ambiente, las Corporaciones Autónomas Regionales, las entidades Territoriales y los Institutos de Investigación adscritos y vinculados al MINAMBIENTE. 
 
     h4(data-aos="fade-down") ¿Sabe cuáles son las principales funciones del SINA?                  
     p(data-aos="fade-down").mb-5 El Sistema Nacional Ambiental realiza las funciones que se presentan a continuación: 
@@ -159,7 +159,7 @@
       .tarjeta.bg-card.p-3(x="58.5%" y="13.4%" numero="")
         p.mb-0 Dirigir y coordinar el Sistema Nacional Ambiental.      
       .tarjeta.bg-card.p-3(x="65%" y="27.5%" numero="")
-        p.mb-0 Apoyar y coordinar los procesos de planificación de las autoridades ambientales   
+        p.mb-0 Apoyar y coordinar los procesos de planificación de las autoridades ambientales.   
       .tarjeta.bg-card.p-3(x="67.5%" y="49.8%" numero="")
         p.mb-0 Definir y orientar, de acuerdo con las directrices del ministro, las líneas de investigación y estudios ambientales.   
       .tarjeta.bg-card.p-3(x="65.4%" y="72.6%" numero="")

@@ -96,7 +96,7 @@
               p.mb-0 Es el efecto radiactivo infrarrojo de todos los componentes de la atmósfera que absorben en el infrarrojo, por lo tanto los gases de efecto invernadero y las nubes y, en menor medida, los aerosoles absorben la radiación terrestre emitida por la superficie de la Tierra, esta modificación de la concentración de los gases de efecto invernadero debida a emisiones antropógenas contribuye a un aumento de la temperatura en la superficie o índice de calentamiento.    
             .tarjeta.color-acento-botones.p-3(x="35.5%" y="84%" numero="")
               .h5.mb-2 Cambio climático
-              p.mb-0 La Convención Marco de las Naciones Unidas sobre el Cambio Climático (UNFCCC), en su artículo 1, define el cambio climático como “cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables”.  
+              p.mb-0 La Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC), en su artículo 1, define el cambio climático como “cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables”.  
             .tarjeta.color-acento-botones.p-3(x="50.5%" y="84%" numero="")
               .h5.mb-2 Impacto ambiental
               p.mb-0 Es cualquier alteración en el medio ambiente que resulte de las actividades humanas, ya sea directa o indirectamente, y que pueda tener un impacto negativo en los ecosistemas, la biodiversidad, la salud humana y otros aspectos del bienestar social y económico. Los impactos ambientales pueden ser el resultado de una amplia gama de actividades humanas, incluyendo la construcción de infraestructuras, la explotación de recursos naturales, la agricultura, la producción industrial, el transporte y el turismo, entre otros.    
@@ -125,7 +125,7 @@
         img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/12.png', alt='')      
       .col-lg-8(data-aos="fade-down")
         .p-4
-          p(data-aos="fade-down").mb-0 En muchas ocaciones , las empresas tratan de minimizar la connotación de su impacto ambiental al reducirlo a la afectación de una población o de un individuo, para así disminuir la multa. Sin embargo, esto no significa que sea menos importante, ya que puede tratarse de una especie en via de extinción, importante para mantener el eslabón de la cadena alimenticia, una especie con funciones ecosistémicas esenciales, una cría o hembra, entre otros aspectos.
+          p(data-aos="fade-down").mb-0 En muchas ocasiones, las empresas tratan de minimizar la connotación de su impacto ambiental al reducirlo a la afectación de una población o de un individuo, para así disminuir la multa. Sin embargo, esto no significa que sea menos importante, ya que puede tratarse de una especie en vía de extinción, importante para mantener el eslabón de la cadena alimenticia, una especie con funciones ecosistémicas esenciales, una cría o hembra, entre otros aspectos.
 
     .row.justify-content-center.mb-4
       .col-lg-7.my-3
@@ -163,7 +163,7 @@
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
                 h4.text-center Medio Abiótico 
-                p.mb-0 Incluye los componentes geológicos, geomorfológico, paisajístico, suelo y uso del suelo,  hidrológico, hidrogeológico, oceanográfico, geotécnico y atmosférico entre otros    
+                p.mb-0 Incluye los componentes geológicos, geomorfológico, paisajístico, suelo y uso del suelo,  hidrológico, hidrogeológico, oceanográfico, geotécnico y atmosférico entre otros.    
 
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
@@ -172,7 +172,7 @@
             .tarjeta.color-primario.bg9.bra.ts.h-100
               .p-4.pt-5
                 h4.text-center Medio Biótico 
-                p.mb-0 Comprende los componentes flora, fauna e hidrobiotica  
+                p.mb-0 Comprende los componentes flora, fauna e hidrobiotica.  
 
       .col-lg-4.my-3
         .tarjeta.tarjeta-avatar.h-100
@@ -181,7 +181,7 @@
             .tarjeta.color-primario.bg8.bra.ts.h-100
               .p-4.pt-5
                 h4.text-center Medio socioeconómico 
-                p.mb-0 Consta de los componentes demográfico, espacial, económico, cultural, arqueológico y político - organizativo 
+                p.mb-0 Consta de los componentes demográfico, espacial, económico, cultural, arqueológico y político - organizativo. 
 
     p(data-aos="fade-down").mb-5 Para realizar un diagnóstico ambiental de la organización, es fundamental identificar los componentes ambientales que rodean su área de influencia directa e indirecta. #[b De esta manera, se podrá definir si estas actividades pueden estar afectando o pueden afectar los componentes ambientales.] 
 
@@ -192,7 +192,7 @@
             img(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
           .col
             .p-3.my-4.me-2
-              p(data-aos="fade-down").mb-0 Identificar los componentes ambientales en un área de estudios se conoce como línea base o inventario ambiental, y es una parte importante del diagnóstico ambiental en una organización  
+              p(data-aos="fade-down").mb-0 Identificar los componentes ambientales en un área de estudios se conoce como línea base o inventario ambiental, y es una parte importante del diagnóstico ambiental en una organización.  
 
     .row.justify-content-center.align-items-center.bg12.mb-5
       .col-lg-6(data-aos="fade-down")
@@ -209,7 +209,7 @@
       .col-auto.bg14.p-3(data-aos="flip-down")
         h5.mb-0(data-aos="fade-down") Ambiente físico
 
-    p(data-aos="fade-down").mb-5 Se refiere a todos los elementos no vivos presentes en un lugar determinado, como la atmósfera, el agua, el suelo, la luz solar, la temperatura y los minerales         
+    p(data-aos="fade-down").mb-5 Se refiere a todos los elementos no vivos presentes en un lugar determinado, como la atmósfera, el agua, el suelo, la luz solar, la temperatura y los minerales.         
 
     .bg15.p-5.mb-5
       h5(data-aos="fade-down") Componentes abióticos: 
@@ -254,7 +254,7 @@
             .col
               .p-3.my-4.me-2
                 h4(data-aos="fade-down") El tráfico 
-                p(data-aos="fade-down").mb-0 El proyecto podría tener impacto en el corto o largo plazo sobre las vías de acceso o los niveles de tráfico, así como los recursos energéticos y los materiales peligrosos   
+                p(data-aos="fade-down").mb-0 El proyecto podría tener impacto en el corto o largo plazo sobre las vías de acceso o los niveles de tráfico, así como los recursos energéticos y los materiales peligrosos.   
 
     .bg16.p-5.mb-5
       h5(data-aos="fade-down") Recursos culturales y estéticos: 
@@ -389,11 +389,11 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Inventario ambiental o línea base ambiental para un estudio de impacto ambiental y obtener una licencia ambiental, es necesario seguir los términos de referencia establecidos por la Autoridad Nacional de Licencias Ambientales (ANLA). En el caso de proyectos específicos, se deben cumplir con los requisitos específicos exigidos por la autoridad ambiental.
+                  p.mb-0 Para un estudio de impacto ambiental y obtener una licencia ambiental, es necesario seguir los términos de referencia establecidos por la Autoridad Nacional de Licencias Ambientales (ANLA). En el caso de proyectos específicos, se deben cumplir con los requisitos específicos exigidos por la autoridad ambiental.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.anla.gov.co/01_anla/normatividad/documentos-estrategicos/terminos-de-referencia" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download 
+                    span ver enlace
+                    i.fas.fa-link
 
     Separador 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -417,9 +417,6 @@
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard3.p-5.h-100.j
               p.py-2.mb-0 Consumo de materiales.
-          .col-lg-3.col-md-6.my-3(data-aos="fade-right")
-            .bcard4.p-5.h-100.j
-              p.py-2.mb-0 Consumo de agua.
           .col-lg-3.col-md-6.my-3(data-aos="fade-left")
             .bcard1.p-5.h-100.j
               p.mb-0 Vertimientos.  
@@ -481,13 +478,16 @@
               ul.lista-ul.fa-ul
                 li 
                   i.lista-ul__vineta
-                  | Aguas de proceso  
+                  | Agua
                 li 
                   i.lista-ul__vineta
-                  | Aguas de lavado  
+                  | Energía
                 li 
                   i.lista-ul__vineta
-                  | Aguas domésticas              
+                  | Materias primas  
+                li 
+                  i.lista-ul__vineta
+                  | Combustibles                              
             tr(style='background-color: #FFF')
             td.text-center Emisiones
             td

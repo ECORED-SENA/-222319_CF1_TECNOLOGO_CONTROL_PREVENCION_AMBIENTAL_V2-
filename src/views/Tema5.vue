@@ -14,7 +14,7 @@
         .bg26.p-4.mb-4.h-100.j
           p(data-aos="fade-down").mb-0 A partir de este diagnóstico ambiental, la organización podrá conocer e interpretar su impacto ambiental y determinar si sus actuaciones son o no aceptables desde este punto de vista. 
             br
-            |#[b ¿Pero qué beneficios obtiene la organización con esta evaluación ambiental inicial ? Aquí se presentan algunos de ellos:] 
+            |#[b ¿Pero qué beneficios obtiene la organización con esta evaluación ambiental inicial? Aquí se presentan algunos de ellos:] 
       .col-lg-5.my-3       
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/76.png', alt='')  
 
