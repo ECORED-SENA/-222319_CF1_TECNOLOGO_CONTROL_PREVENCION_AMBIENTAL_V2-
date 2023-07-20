@@ -219,8 +219,8 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/E6BuXvBZeVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
-          figcaption Video. Identificación de los componentes ambientales de acuerdo al contexto
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/ofEpqjGW7Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          figcaption Video. Componentes abióticos
 
     .bg16.p-5.mb-5
       h5(data-aos="fade-down") Componente  biótico:
